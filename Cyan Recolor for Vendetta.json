@@ -10,14 +10,14 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": ["#4E95E6EA"],
-    "TEXT_MUTED": ["#8294A8"],
+    "TEXT_MUTED": ["#BAD5F3"],
     "TEXT_DANGER": ["#2161A9"],
     "TEXT_LINK": ["#f2f110"],
     "BG_BACKDROP": ["#0712407F"],
     "BACKGROUND_PRIMARY": ["#008ca5"],
-    "BACKGROUND_SECONDARY": ["#008ca5"],
-    "BACKGROUND_SECONDARY_ALT": ["#008ca5"],
-    "BACKGROUND_TERTIARY": ["#008ca5"],
+    "BACKGROUND_SECONDARY": ["#006B7E"],
+    "BACKGROUND_SECONDARY_ALT": ["#005867"],
+    "BACKGROUND_TERTIARY": ["#004C59"],
     "BACKGROUND_ACCENT": ["#a820e1"],
     "BACKGROUND_FLOATING": ["101a45"],
     "BACKGROUND_MOBILE_PRIMARY": ["#0e163b"],
@@ -90,7 +90,7 @@
       "StatusMobileOnline": "#00FF00",
       "StatusIdle": "#FFA000",
       "StatusDND": "#FF0000",
-      "StatusOffline": "#737F8D",
+      "StatusOffline": "#DDE0E5",
       "StatusOnline": "#00FF00"
     }
   },
