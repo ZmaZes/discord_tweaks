@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -36,7 +36,7 @@
     "CHANNELS_DEFAULT": ["#D3D8DE"],
     "CHAT_BACKGROUND": ["#00FF0D"],
     "SPOILER_HIDDEN_BACKGROUND": ["#006476"],
-    "KEYBOARD": ["#FF02E1"],
+    "KEYBOARD": ["#66bac9"],
     "ACTIVITY_CARD_BACKGROUND": ["#00FF00"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#008198"],
     "REDESIGN_ACTIVITY_CARD_BORDER": ["#9D1AD6"],
