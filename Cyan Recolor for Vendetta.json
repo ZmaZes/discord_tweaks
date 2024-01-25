@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -19,18 +19,18 @@
     "BACKGROUND_SECONDARY_ALT": ["#005867"],
     "BACKGROUND_TERTIARY": ["#004C59"],
     "BACKGROUND_ACCENT": ["#a820e1"],
-    "BACKGROUND_FLOATING": ["101a45"],
+    "BACKGROUND_FLOATING": ["#006476"],
     "BACKGROUND_MOBILE_PRIMARY": ["#00a9c7"],
     "BACKGROUND_MOBILE_SECONDARY": ["#009BB6"],
     "BACKGROUND_NESTED_FLOATING": ["#00B0CF"],
-    "BACKGROUND_MESSAGE_HOVER": ["2677d3"],
-    "BACKGROUND_MODIFIER_HOVER": ["2677d3"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#2677d3"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#145eb3"],
-    "INTERACTIVE_NORMAL": ["#A1CEFF"],
+    "BACKGROUND_MESSAGE_HOVER": ["#006476"],
+    "BACKGROUND_MODIFIER_HOVER": ["#006476"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#006476"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#006476"],
+    "INTERACTIVE_NORMAL": ["#64AFFF"],
     "INTERACTIVE_HOVER": ["#a820e1"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
-    "INTERACTIVE_MUTED": ["#323B45"],
+    "INTERACTIVE_MUTED": ["#1A1F24"],
     "CHANNELTEXTAREA_BACKGROUND": ["#DFDFDF"],
     "CHANNEL_ICON": ["#D3D8DE"],
     "CHANNELS_DEFAULT": ["#D3D8DE"],
@@ -80,19 +80,6 @@
     "WHITE_500": "#FDFFFE",
     "BLACK_500": "#006476",
     "RED_400": "#2161A9"
-  },
-  "plus": {
-    "version": "0",
-    "customOverlays": true,
-    "iconpack": "rosiecord-plumpy",
-    "icons": {
-      "StatusStreaming": "#6f30db",
-      "StatusMobileOnline": "#00FF00",
-      "StatusIdle": "#FFA000",
-      "StatusDND": "#FF0000",
-      "StatusOffline": "#DDE0E5",
-      "StatusOnline": "#00FF00"
-    }
   },
   "spec": 2
 }
