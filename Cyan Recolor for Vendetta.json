@@ -12,7 +12,7 @@
     "ANDROID_RIPPLE": ["#E64E4EEA"],
     "HEADER_PRIMARY": ["#FFFFFF"],
     "HEADER_SECONDARY": ["#F1F1F1"],
-    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#FFF700"],
     "TEXT_MUTED": ["#BAD5F3"],
     "TEXT_DANGER": ["#faa61a"],
     "TEXT_LINK": ["#f2f110"],
