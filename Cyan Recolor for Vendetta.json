@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.12",
+  "version": "1.0.11",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -22,7 +22,7 @@
     "BACKGROUND_SECONDARY_ALT": ["#006476"],
     "BACKGROUND_TERTIARY": ["#004C59"],
     "BACKGROUND_ACCENT": ["#a820e1"],
-    "BACKGROUND_FLOATING": ["#006476"],
+    "BACKGROUND_FLOATING": ["#4b8b96"],
     "BACKGROUND_MOBILE_PRIMARY": ["#00a9c7"],
     "BACKGROUND_MOBILE_SECONDARY": ["#009BB6"],
     "BACKGROUND_NESTED_FLOATING": ["#00B0CF"],
@@ -32,7 +32,7 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#006476"],
     "INTERACTIVE_NORMAL": ["#64AFFF"],
     "INTERACTIVE_HOVER": ["#a820e1"],
-    "INTERACTIVE_ACTIVE": ["#FF00E6"],
+    "INTERACTIVE_ACTIVE": ["#a820e1"],
     "INTERACTIVE_MUTED": ["#1A1F24"],
     "CHANNELTEXTAREA_BACKGROUND": ["#DFDFDF"],
     "CHANNEL_ICON": ["#D3D8DE"],
