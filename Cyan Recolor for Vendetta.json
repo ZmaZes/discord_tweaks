@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": ["#E64E4EEA"],
+    "ANDROID_RIPPLE": ["#FFFFFF87"],
     "HEADER_PRIMARY": ["#FFFFFF"],
     "HEADER_SECONDARY": ["#F1F1F1"],
     "TEXT_NORMAL": ["#FFFFFF"],
@@ -54,9 +54,9 @@
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#009BB6"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#009BB6"],
     "REDESIGN_BUTTON_SECONDARY_BORDER": ["#20D4E1"],
-    "BORDER_FAINT": ["#9D1AD6"],
-    "BORDER_STRONG": ["#a820e1"],
-    "BORDER_SUBTLE": ["#9D1AD6"]
+    "BORDER_FAINT": ["#20D4E1"],
+    "BORDER_STRONG": ["#20D4E1"],
+    "BORDER_SUBTLE": ["#20D4E1"]
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF",
@@ -76,10 +76,10 @@
     "PRIMARY_660": "#009BB6",
     "PRIMARY_700": "#00E5FF",
     "PRIMARY_800": "#006476",
-    "PLUM_1": "#22FF00",
-    "PLUM_3": "#22FF00",
+    "PLUM_1": "#FBFF00",
+    "PLUM_3": "#3C00FF",
     "PLUM_6": "#FFFFFF",
-    "PLUM_9": "#22FF00",
+    "PLUM_9": "#A600FF",
     "PLUM_10": "#FFFFFF",
     "PLUM_11": "#006476",
     "PLUM_13": "#ff0077",
