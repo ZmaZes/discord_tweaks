@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": ["#FFFFFF87"],
+    "ANDROID_RIPPLE": ["#FFFFFF4C"],
     "HEADER_PRIMARY": ["#FFFFFF"],
     "HEADER_SECONDARY": ["#F1F1F1"],
     "TEXT_NORMAL": ["#FFFFFF"],
@@ -21,7 +21,7 @@
     "BACKGROUND_SECONDARY": ["#006B7E"],
     "BACKGROUND_SECONDARY_ALT": ["#006476"],
     "BACKGROUND_TERTIARY": ["#004C59"],
-    "BACKGROUND_ACCENT": ["#20D4E1"],
+    "BACKGROUND_ACCENT": ["#a820e1"],
     "BACKGROUND_FLOATING": ["#00a0bd"],
     "BACKGROUND_MOBILE_PRIMARY": ["#00a9c7"],
     "BACKGROUND_MOBILE_SECONDARY": ["#009BB6"],
@@ -64,8 +64,8 @@
     "PRIMARY_160": "#ff0077",
     "PRIMARY_200": "#FFFFFF",
     "PRIMARY_230": "#ff0077",
-    "PRIMARY_360": "#a820e1",
-    "PRIMARY_400": "#a820e1",
+    "PRIMARY_360": "#20D4E1",
+    "PRIMARY_400": "#20D4E1",
     "PRIMARY_460": "#FFF200",
     "PRIMARY_500": "#40FF00",
     "PRIMARY_560": "#FF0000",
