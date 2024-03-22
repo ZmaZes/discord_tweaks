@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -47,9 +47,9 @@
     "BG_MOD_SUBTLE": ["#a820e1"],
     "BG_MOD_STRONG": ["#a820e1"],
     "CARD_PRIMARY_BG": ["#008198"],
-    "CARD_PRIMARY_PRESSED_BG": ["#007589"],
-    "CARD_SECONDARY_BG": ["#007B90"],
-    "CARD_SECONDARY_PRESSED_BG": ["#007489"],
+    "CARD_PRIMARY_PRESSED_BG": ["#009BB6"],
+    "CARD_SECONDARY_BG": ["#009BB6"],
+    "CARD_SECONDARY_PRESSED_BG": ["#00A6C3"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#009BB6"],
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#009BB6"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#009BB6"],
