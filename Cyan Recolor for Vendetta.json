@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -64,9 +64,9 @@
     "PRIMARY_160": "#ff0077",
     "PRIMARY_200": "#ff0077",
     "PRIMARY_230": "#ff0077",
-    "PRIMARY_360": "#009BB6",
-    "PRIMARY_400": "#009BB6",
-    "PRIMARY_460": "#ff0077",
+    "PRIMARY_360": "#00F12C",
+    "PRIMARY_400": "#00C5E8",
+    "PRIMARY_460": "#009BB6",
     "PRIMARY_500": "#009BB6",
     "PRIMARY_560": "#FF0000",
     "PRIMARY_600": "#00798f",
