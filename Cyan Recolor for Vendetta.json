@@ -1,6 +1,6 @@
 {
   "name": "Cyan",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "description": "A light mode theme for Vendetta.",
   "authors": [
     {
@@ -81,7 +81,7 @@
     "PLUM_9": "#FFFFFF",
     "PLUM_10": "#FFFFFF",
     "PLUM_11": "#006476",
-    "PLUM_13": "#009BB6",
+    "PLUM_13": "#008198",
     "PLUM_17": "#008198",
     "PLUM_18": "#00798f",
     "PLUM_19": "#ff0077",
