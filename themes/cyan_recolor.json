@@ -1,7 +1,7 @@
 {
   "name": "Cyan",
-  "version": "1.0.67",
-  "description": "A bright cyan theme for Vendetta/Revenge/Bunny/Pyoncord.",
+  "version": "1.0.68",
+  "description": "A bright cyan theme for Vendetta/Bunny. v1.0.68",
   "authors": [
     {
       "name": "@theonlygreenleaf",
@@ -76,7 +76,7 @@
     "PRIMARY_700": "#00E5FF",
     "PRIMARY_800": "#006476",
     "PLUM_1": "#008198",
-    "PLUM_4": "#11FF00",
+    "PLUM_4": "#f542b9",
     "PLUM_3": "#20D4E1",
     "PLUM_6": "#FFFFFF",
     "PLUM_9": "#FFFFFF",
@@ -88,10 +88,10 @@
     "PLUM_18": "#00798f",
     "PLUM_19": "#00798f",
     "PLUM_20": "#00798f",
-    "PLUM_21": "#f542b9",
+    "PLUM_21": "#11FF00",
     "PLUM_22": "#008198",
     "PLUM_24": "#006476",
-    "PLUM_25": "#4287f5",
+    "PLUM_25": "#11FF00",
     "BRAND_260": "#bcc1f9",
     "BRAND_360": "#00E5FF",
     "BRAND_500": "#20D4E1",
