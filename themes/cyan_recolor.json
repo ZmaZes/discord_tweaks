@@ -1,7 +1,7 @@
 {
   "name": "Cyan",
-  "version": "1.0.69",
-  "description": "A bright cyan theme for Vendetta/Bunny. v1.0.69",
+  "version": "1.0.70",
+  "description": "A bright cyan theme for Vendetta/Bunny. v1.0.70",
   "authors": [
     {
       "name": "@theonlygreenleaf",
@@ -76,7 +76,7 @@
     "PRIMARY_700": "#00E5FF",
     "PRIMARY_800": "#006476",
     "PLUM_1": "#008198",
-    "PLUM_4": "#9AC9FF",
+    "PLUM_4": "#96EFFF",
     "PLUM_3": "#20D4E1",
     "PLUM_6": "#FFFFFF",
     "PLUM_9": "#FFFFFF",
@@ -95,7 +95,7 @@
     "BRAND_260": "#bcc1f9",
     "BRAND_360": "#00E5FF",
     "BRAND_500": "#20D4E1",
-    "BRAND_560": "#9AC9FF",
+    "BRAND_560": "#96EFFF",
     "GREEN_360": "#1FE800",
     "YELLOW_300": "#F0B232",
     "WHITE_500": "#FDFFFE",
