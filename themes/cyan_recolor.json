@@ -1,7 +1,7 @@
 {
   "name": "Cyan",
-  "version": "1.0.76",
-  "description": "A bright cyan theme for Vendetta/Bunny. v1.0.76",
+  "version": "1.0.77",
+  "description": "A bright cyan theme for Vendetta/Bunny. v1.0.77",
   "authors": [
     {
       "name": "@theonlygreenleaf",
@@ -89,7 +89,7 @@
     "PLUM_12": "#ca33ff",
     "PLUM_13": "#71CDDE",
     "PLUM_14": "#ca33ff",
-    "PLUM_15": "#20D4E1",
+    "PLUM_15": "#b6e9f2",
     "PLUM_16": "#00798f",
     "PLUM_17": "#008198",
     "PLUM_18": "#00798f",
