@@ -1,7 +1,7 @@
 {
     "spec": 1,
     "name": "Rosemary",
-    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
+    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog v0.4",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary.ttf",
         "ggsans-Bold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold.ttf",
@@ -12,14 +12,14 @@
         "ggsans-MediumItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold-Italic.ttf",
         "ggsans-Normal": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary.ttf",
         "ggsans-NormalItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Italic.ttf",
-        "ggsans-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemaryttf",
+        "ggsans-SemiboldItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Italic.ttf",
         "NotoSans-Bold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold.ttf",
         "NotoSans-ExtraBold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold.ttf",
         "NotoSans-Medium": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold.ttf",
         "NotoSans-Normal": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary.ttf",
         "NotoSans-NormalItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Italic.ttf",
-        "NotoSans-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold.ttf",
-        "SourceCodePro-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary-Bold.ttf"
+        "NotoSans-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary.ttf",
+        "SourceCodePro-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/rosemary/Rosemary.ttf"
     }
 }
