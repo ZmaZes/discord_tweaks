@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Cool Jazz",
+    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog v0.7",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf",
+        "ggsans-Bold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Bold-Italic.ttf",
+        "ggsans-ExtraBold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Bold-Italic.ttf",
+        "ggsans-Medium": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf",
+        "ggsans-MediumItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Italic.ttf",
+        "ggsans-Normal": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf",
+        "ggsans-NormalItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Italic.ttf",
+        "NotoSans-Bold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf",
+        "NotoSans-Normal": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf",
+        "NotoSans-NormalItalic": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf",
+        "SourceCodePro-Semibold": "https://github.com/ZmaZes/discord_tweaks/raw/refs/heads/main/fonts/cool-jazz/Cool-Jazz.ttf"
+    }
+}
